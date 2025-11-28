@@ -72,4 +72,4 @@ console.log(`
 ╚════════════════════════════════════════════════════════════╝
 `);
 
-await app.listen({ port });
+await app.listen({ port, hostname: "0.0.0.0" });
