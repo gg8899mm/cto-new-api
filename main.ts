@@ -63,8 +63,8 @@ console.log(`
 ║                                                            ║
 ║     🚀 Enginelabs API 转换器 v4.0.0                       ║
 ║                                                            ║
-║     服务地址: http://localhost:${port}                    ║
-║     管理面板: http://localhost:${port}/admin/dashboard    ║
+║     服务地址: http://0.0.0.0:${port}                    ║
+║     管理面板: http://0.0.0.0:${port}/admin/dashboard    ║
 ║                                                            ║
 ║     管理员用户名: ${Config.ADMIN_USERNAME}                ║
 ║     管理员密码: ${Config.ADMIN_PASSWORD}                  ║
